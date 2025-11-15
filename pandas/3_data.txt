@@ -1,0 +1,5 @@
+why to create the data sets or read or explore it
+1. to read the data 
+2. to understand the data sets
+3. to identify the problems
+4. plan the next steps

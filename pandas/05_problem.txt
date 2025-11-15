@@ -1,0 +1,4 @@
+what is the problem that is to solve t by info
+1. rows and columns
+2. what type of?
+3. missing data
